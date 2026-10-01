@@ -3,4 +3,4 @@ def hello(name):
 
 
 if __name__ == "__main__":
-    print(hello("DevOps"))
+    print(hello("Student"))
