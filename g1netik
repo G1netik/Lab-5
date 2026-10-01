@@ -1,0 +1,6 @@
+def hello(g1netik):
+    return f"Hello, {g1netik}!"
+
+
+if __name__ == "__main__":
+    print(hello("DevOps"))
