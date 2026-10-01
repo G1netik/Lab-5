@@ -1,5 +1,5 @@
-def hello(g1netik):
-    return f"Hello, {g1netik}!"
+def hello(name):
+    return f"Hello, {name}!"
 
 
 if __name__ == "__main__":
